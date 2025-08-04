@@ -40,6 +40,5 @@ Dashboard Preview:
 2. Open `.pbix` file in Power BI Desktop
 3. Connect to the included `final_cleaned_dataset.csv` (if refresh needed)
 
-
-- **LinkedIn**: [Your LinkedIn URL]
-- **Portfolio**: [Link to portfolio if any]
+Contact Me-
+- LinkedIn: www.linkedin.com/in/uday-diwane
